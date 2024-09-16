@@ -1,4 +1,4 @@
-﻿# Connecting my Chatbot to AI using Azure Service  
+﻿# Connecting my Chatbot to AI using Azure Service
 
 Bot Framework v4 echo bot sample.
 
