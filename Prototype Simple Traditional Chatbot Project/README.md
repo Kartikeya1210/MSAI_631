@@ -1,19 +1,8 @@
-﻿# EchoBot
+﻿# MSAI631_MBF Simple Traditional Chatbot 
 
 Bot Framework v4 echo bot sample.
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
-
-## To try this sample
-
-- Clone the repository
-```bash
-git clone https://github.com/Microsoft/botbuilder-samples.git
-```
-- In a terminal, navigate to `botbuilder-samples\samples\python\02.echo-bot` folder
-- Activate your desired virtual environment
-- In the terminal, type `pip install -r requirements.txt`
-- Run your bot with `python app.py`
+This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back. We have changed the sample and now this bot has the capability to give an output by reversing the string based on the input.
 
 ## Testing the bot using Bot Framework Emulator
 
@@ -29,7 +18,7 @@ git clone https://github.com/Microsoft/botbuilder-samples.git
 
 ## Interacting with the bot
 
-Enter text in the emulator.  The text will be echoed back by the bot.
+Enter text in the emulator.  The text will be echoed back by the bot in reverse order.
 
 ## Deploy the bot to Azure
 
