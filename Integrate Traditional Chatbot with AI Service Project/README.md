@@ -19,7 +19,7 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## Interacting with the bot
 
-Enter text in the emulator.  The text will be echoed back by the bot.
+Enter text in the emulator.  The text will be evaluated on a sentimental analysis.
 
 ## Deploy the bot to Azure
 
