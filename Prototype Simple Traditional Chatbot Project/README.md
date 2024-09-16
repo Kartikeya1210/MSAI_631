@@ -1,4 +1,4 @@
-﻿# MSAI631_MBF Simple Traditional Chatbot 
+﻿# MSAI631_MBF Simple Traditional Chatbot
 
 Bot Framework v4 echo bot sample.
 
